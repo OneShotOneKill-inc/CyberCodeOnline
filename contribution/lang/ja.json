@@ -71,7 +71,7 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "ハイパーループセントラルステーションへ行く",
+ 	 	 	 	 	"trans": "ハイパーループ中央駅へ行く",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -79,7 +79,7 @@
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "ハイパーループセントラルステーションへ行く",
+ 	 	 	 	 	"trans": "ハイパーループ中央駅へ行く",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -105,7 +105,7 @@
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "ギャング本部へ行く",
+ 	 	 	 	 	"trans": "ギャングの本拠地へ行く",
  	 	 	 	 	"eng": "Go to gang headquarters"
  	 	 	 	}
  	 	 	}
@@ -132,7 +132,7 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[プレイヤーマーケット] \r\n         シャングリ・ラの有名な商店街。 屋台が通りを埋め尽くす。 \r\n         必要なものの多くはここで見つけることができる。",
+ 	 	 	 	"trans": "[プレイヤーマーケット] \r\n         シャングリ・ラの有名な商店街。 屋台が通りを埋め尽くす。 \r\n         必要なものは大概ここで見つけることができる。",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -144,7 +144,7 @@
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "ハイパーループセントラルステーション",
+ 	 	 	 	"trans": "ハイパーループ中央駅",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -199,7 +199,7 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "前の駅の3つのゾーンのダンジョンにある3種類の鍵のかけらをすべて集めてきてください。 \r\n                     その後、シティセンター[ハブ]の[ターミナル]に行き、このエリアを開くために必要な鍵を作ります。",
+ 	 	 	 	 	"trans": "前の駅の3階層のダンジョンにある3種類の鍵のかけらをすべて集めてきてください。 \r\n                     その後、シティセンター[ハブ]の[ターミナル]に行き、このエリアを開放するために必要な鍵を作ります。",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
@@ -248,7 +248,7 @@
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "ギャング本部",
+ 	 	 	 	"trans": "ギャングの本拠地",
  	 	 	 	"eng": "Gang Headquarters"
  	 	 	},
  	 	 	"description": {
@@ -256,7 +256,7 @@
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "このエリアに入るにはギャングのメンバーになる必要があります",
+ 	 	 	 	"trans": "このエリアに入るにはギャングの一員になる必要があります",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -286,7 +286,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "コスメティックマーチャントにアクセスするにはレベル5以上が必要です",
+ 	 	 	 	"trans": "コスメティック販売員にアクセスするにはレベル5以上が必要です",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -316,7 +316,7 @@
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使い古された個人用のPC。使用には十分な注意が必要。",
+ 	 	 	 	"trans": "使い古された個人用のPC。注意して扱えばちゃんと動作する。",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -326,7 +326,7 @@
  	 	},
  	 	"store": {
  	 	 	"name": {
- 	 	 	 	"trans": "トリノキーマート",
+ 	 	 	 	"trans": "トリノキー商店",
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	}
  	 	},
@@ -346,7 +346,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "必要な作業台とツールが揃っています。あなたはここで装備品を改良することができます",
+ 	 	 	 	"trans": "装備品を改良するのに必要な作業台とツールが揃っています。",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -364,7 +364,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "交易所にアクセスするためにレベル10以上が必要です",
+ 	 	 	 	"trans": "交易所にアクセスするためにはレベル10以上が必要です",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -374,7 +374,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "アイテムを基礎の状態にスクラップする全自動のリサイクル機",
+ 	 	 	 	"trans": "アイテムを基本の状態にスクラップする全自動のリサイクル機",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -386,7 +386,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "テックスクラップを消費せず、クラフトスキルを向上できます。",
+ 	 	 	 	"trans": "テックスクラップを消費することなくクラフトスキルを向上できます。",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -466,7 +466,7 @@
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "クランに必要な資源を集めて管理する",
+ 	 	 	 	"trans": "ギャングのために必要な資源を集めて管理する",
  	 	 	 	"eng": "Help gather and manage needed resources for your gang"
  	 	 	}
  	 	},
@@ -516,7 +516,7 @@
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Shangri-LAデータ要塞をターゲットにしたサイバースペースでの共同攻撃を開始 \r\n         データ要塞がすべてのサイバナリックに接続されているユーザーに悪用を送信するように強制することが可能である場合",
+ 	 	 	 	"trans": "Shangri-LAデータ要塞をターゲットにしたサイバースペースでの共同攻撃を開始 \r\n         攻撃が成功すればデータ要塞に対して、サイバネティック接続された全てのユーザーにエクスプロイトを送信するように命令することができる",
  	 	 	 	"eng": "Launch a collaborative attack in cyberspace targeting the Shangri-La Data Fortress.\r\nIf the attack succeeds, it’s possible to force the Data Fortress to transmit exploits to all cybernetically connected users."
  	 	 	}
  	 	}
@@ -542,7 +542,7 @@
  	 	 	 	"amount",
  	 	 	 	"levelName"
  	 	 	],
- 	 	 	"trans": "${amount} ${levelName}エクスペリエンスポイントを受け取りました",
+ 	 	 	"trans": "${amount} ${levelName}の経験値を受け取りました",
  	 	 	"eng": "You received ${amount} ${levelName} experience points"
  	 	}
  	},
@@ -590,7 +590,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "経験値シャード[${levelName}]",
+ 	 	 	 	"trans": "経験値のかけら[${levelName}]",
  	 	 	 	"eng": "Experience Shard [${levelName}]"
  	 	 	},
  	 	 	"description": {
@@ -671,7 +671,7 @@
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "頭痛はありますか？ 痛みに効くのはバファソニン™！",
+ 	 	 	 	"trans": "頭が痛い？ 痛みに効くのはバファソニン™！",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -691,7 +691,7 @@
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "劣化したナノメディックボット、これを使用すると、あらゆる（*条件付き）傷害が治療される！",
+ 	 	 	 	"trans": "劣化したナノメディックボット。これを使えば、あらゆる（*条件付き）怪我が治療できる！",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -701,7 +701,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使用すると、あらゆる（*条件付き）傷害が治療される！",
+ 	 	 	 	"trans": "使用すれば、あらゆる（*条件付き）怪我が治療できる！",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -711,7 +711,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "軍隊で標準的に使用されている注入可能なナノマシンで、戦闘中の怪我の治療ができる。",
+ 	 	 	 	"trans": "軍隊で標準的に使用されている注射型のナノマシンで、戦闘中の怪我の治療ができる。",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -721,7 +721,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "軍で使用されている注射用ナノマシン。戦闘中のケガの治療が可能。",
+ 	 	 	 	"trans": "軍で使用されている注射用ナノマシン。戦闘中の怪我の治療が可能。",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -731,7 +731,7 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "戦闘中の怪我を治療することができる、軍用先行使用のナノ注射器。",
+ 	 	 	 	"trans": "戦闘中の怪我を治療することができる、軍用の高品質なナノ注射器。",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -741,7 +741,7 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "戦闘中の怪我を治療することができる、軍用先行使用のナノ注射器。",
+ 	 	 	 	"trans": "戦闘中の怪我を治療することができる、軍用の希少なナノ注射器。",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -751,7 +751,7 @@
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "あなたと友人は一緒に頭痛を抱えていますか？ 痛みに聞くのはバファソニンスプレー™！",
+ 	 	 	 	"trans": "頭が痛い？ご友人も？ 痛みに効くのはバファソニンスプレー™！",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -831,7 +831,7 @@
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使われている医療技術のかけら。知識があれば、これを使ってヒーリングアイテムを作ることができる。",
+ 	 	 	 	"trans": "実用化された医療技術の一部分。知識があれば、これを使ってヒーリングアイテムを作ることができる。",
  	 	 	 	"eng": "Bits and pieces of used medical tech. This can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -921,7 +921,7 @@
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ハイテク小型化された1回限りの反物質エネルギー発生装置。 \r\n         このアイテムは膨大な量のパワーを生み出す。破壊武器の弾薬として使うことができる。",
+ 	 	 	 	"trans": "ハイテク技術によって小型化された使い捨ての反物質エネルギー発生装置。 \r\n         このアイテムは膨大な量のパワーを生み出す。破壊兵器の弾薬として使うことができる。",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
@@ -931,7 +931,7 @@
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "弾薬技術部品、闇市場で流通しているもの。 \r\n         知識があれば、これを使って弾薬を作成できる。",
+ 	 	 	 	"trans": "闇市場で流通している弾薬技術部品。 \r\n         知識があれば、これを使って弾薬を作成できる。",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
@@ -951,7 +951,7 @@
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "分解された機器の技術的なスクラップで、これをリバースエンジニアリングすることでクラフトの経験値を得ることができる。 \r\n         ジョブハブでリバースエンジニアリングを実行可能。",
+ 	 	 	 	"trans": "分解された機械のスクラップ。これをリバースエンジニアリングすることでクラフトの経験値を得ることができる。 \r\n         ジョブハブでリバースエンジニアリングを実行可能。",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
@@ -963,13 +963,13 @@
  	 	},
  	 	"secondary": {
  	 	 	"name": {
- 	 	 	 	"trans": "特別兵器",
+ 	 	 	 	"trans": "スペシャルウェポン",
  	 	 	 	"eng": "Special Weapon"
  	 	 	}
  	 	},
  	 	"tertiary": {
  	 	 	"name": {
- 	 	 	 	"trans": "破壊武器",
+ 	 	 	 	"trans": "破壊兵器",
  	 	 	 	"eng": "Destructive Weapon"
  	 	 	}
  	 	},
@@ -989,7 +989,7 @@
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "生体認証による暗号化ロックが施された強化コンテナ。中には重要なアイテムが入っているらしい。 \r\n         幸運なことに、搭載されているマイクロコンピュータは侵入可能な古いファームウェアで動作している。[ターミナル]からロック解除が可能。",
+ 	 	 	 	"trans": "生体認証による暗号化ロックが施された強化コンテナ。中には貴重なアイテムが入っているらしい。 \r\n         幸運なことに、搭載されているマイクロコンピュータは侵入可能な古いファームウェアで動作している。[ターミナル]からロック解除が可能。",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -999,7 +999,7 @@
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "生体認証による暗号化ロックが施された強化コンテナ。中には重要なアイテムが入っているらしい。 \r\n         幸運なことに、搭載されているマイクロコンピュータは侵入可能な古いファームウェアで動作している。[ターミナル]からロック解除が可能。",
+ 	 	 	 	"trans": "生体認証による暗号化ロックが施された強化コンテナ。中には伝説的なアイテムが入っているらしい。 \r\n         幸運なことに、搭載されているマイクロコンピュータは侵入可能な古いファームウェアで動作している。[ターミナル]からロック解除が可能。",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -1015,21 +1015,21 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "支援クレート[ギャング]",
+ 	 	 	 	"trans": "支援物資箱[ギャング]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ギャングが機能を維持するための様々なアイテムや資源が入っている。クリックするとギャング本部に送信される。 \r\n         [使用]をクリックしてGang本部に送信",
+ 	 	 	 	"trans": "ギャングが活動を継続するための様々なアイテムや資源が入っている。クリックするとギャングの本拠地に送信される。 \r\n         [使用]をクリックしてギャングの本拠地に送信",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarters"
  	 	 	}
  	 	},
  	 	"clanExp": {
  	 	 	"name": {
- 	 	 	 	"trans": "暗号化ギャングメモリのかけら",
+ 	 	 	 	"trans": "暗号化されたギャングメモリのかけら",
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "メモリのかけらには暗号化されたギャングの秘密が含まれる。 \r\n         ギャング本部で復号化して、有用な情報を入手する（ギャングに所属している必要がある）",
+ 	 	 	 	"trans": "メモリのかけらには暗号化されたギャングの秘密が含まれる。 \r\n         ギャングの本拠地で復号化して、有用な情報を入手する（ギャングに所属している必要がある）",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarters to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
@@ -1049,7 +1049,7 @@
  	 	 	 	"eng": "Calibration AI Shard (5%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、破壊的な失敗の確率が5%減少。(スタック可能)",
+ 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、破壊的な失敗の確率が5%減少。(重ね掛け可能)",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 5% (stackable) for 5 minutes."
  	 	 	}
  	 	},
@@ -1059,7 +1059,7 @@
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、破壊的な失敗の確率が10%減少。(スタック可能)",
+ 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、破壊的な失敗の確率が10%減少。(重ね掛け可能)",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes."
  	 	 	}
  	 	},
@@ -1069,7 +1069,7 @@
  	 	 	 	"eng": "Calibration AI Shard (50%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、オンラインのすべてのユーザーの破壊的な失敗の確率が50%減少。(スタック可能)",
+ 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、オンラインのすべてのユーザーの破壊的な失敗の確率が50%減少。(重ね掛け可能)",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
@@ -1079,7 +1079,7 @@
  	 	 	 	"eng": "Calibration AI Shard (100%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、オンラインのすべてのユーザーの破壊的な失敗の確率が100%減少。(スタック可能)",
+ 	 	 	 	"trans": "装備品のアップグレードを支援するために設計された高度なAIの断片が含まれる。 \r\n         使用すると、5分間、オンラインのすべてのユーザーの破壊的な失敗の確率が100%減少。(重ね掛け可能)",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 100% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
@@ -1089,7 +1089,7 @@
  	 	 	 	"eng": "Calibration Safety Nano Bots"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "キャリブレーションに失敗したときの破壊的影響を減らし、無効にするように設計された実験的ナノマシン。 \r\n         起動すると、5分間、すべてのキャリブレーションの失敗でアイテムが破壊されなくなる。",
+ 	 	 	 	"trans": "キャリブレーションに失敗したときの破壊的影響を減らし、無効にするように設計された実験的ナノマシン。 \r\n         起動すると、5分間、キャリブレーションの失敗によってアイテムが破壊されなくなる。",
  	 	 	 	"eng": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes"
  	 	 	}
  	 	},
@@ -1099,7 +1099,7 @@
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使い古されたポーチ。 \r\n         大きな口と赤い唇を持つ奇妙なカエルの絵が描かれている。 \r\n         擦り切れた奇妙なな絵の意味はわからないが、小物を入れるのにちょうどいい。 \r\n         装備するとインベントリサイズが増える",
+ 	 	 	 	"trans": "使い古されたポーチ。 \r\n         大きな口と赤い唇を持つ奇妙なカエルの絵が描かれている。 \r\n         擦り切れた奇妙な絵の意味はわからないが、小物を入れるのにちょうどいい。 \r\n         装備するとインベントリサイズが増える",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
@@ -1109,7 +1109,7 @@
  	 	 	 	"eng": "Fanny Pack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "イカしておしゃれで代わったバックパックは、かつて\"ザ・ロック\"と呼ばれた男のサインが入っている。 \r\n         装備するとインベントリサイズが増える",
+ 	 	 	 	"trans": "イカしておしゃれで変わったバックパックは、かつて\"ザ・ロック\"と呼ばれた男のサインが入っている。 \r\n         装備するとインベントリの容量が増える",
  	 	 	 	"eng": "Cool and fashionable Fanny Pack, signed by a legend called The Rock himself from decades ago.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
@@ -1119,7 +1119,7 @@
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "古ぼけた、幼稚園児向けのような紫色の\"冒険者の\"バックパック。 前の所有者、\"ドーラ\"の名が書かれたタグが付いている。身に着けるととても素敵だ。 \r\n         装備するとインベントリサイズが増える",
+ 	 	 	 	"trans": "古ぼけた、幼稚園児向けのような紫色の\"冒険者の\"バックパック。 前の所有者、\"ドーラ\"の名が書かれたタグが付いている。身に着けるととても素敵だ。 \r\n         装備するとインベントリの容量が増える",
  	 	 	 	"eng": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -1129,7 +1129,7 @@
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "一般的なサラリーマンのカバン。\"ARASAKA\"のラベルがプリントされている。 \r\n         書類などを入れるには非常に良く機能する構造になっているが、武器を持ち運ぶには向かない。 \r\n         装備するとインベントリサイズが増える",
+ 	 	 	 	"trans": "一般的なサラリーマンのカバン。\"ARASAKA\"のラベルがプリントされている。 \r\n         書類などを入れるには最適な構造になっているが、武器を持ち運ぶには向かない。 \r\n         装備するとインベントリサイズが増える",
  	 	 	 	"eng": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -1139,7 +1139,7 @@
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "装備を運ぶために設計され、自律的に後に続くように設計された軍用ロボット。 \r\n         オンボードの先進的なAIによってクモ動きを模した6本の強い足で、 \r\n         それはあなたが演奏しているミッションに邪魔をするのを避けながら、それはあなたに迅速かつ静かに追跡することができます",
+ 	 	 	 	"trans": "装備を運ぶために設計され、自律的に後に続くように設計された軍用ロボット。 \r\n         オンボードの先進的なAIによってクモの動きを模した6本の強い足で、 \r\n         ミッションの邪魔をしないように、迅速かつ静かにあなたを追尾することができる",
  	 	 	 	"eng": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing"
  	 	 	}
  	 	},
@@ -1169,7 +1169,7 @@
  	 	 	 	"eng": "Legendary Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "近くのプレーヤーを癒すために何千もの先進のナノマシンを派遣する。",
+ 	 	 	 	"trans": "近くのプレーヤーを癒すために何千もの先進的なナノマシンを派遣する。",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -1179,7 +1179,7 @@
  	 	 	 	"eng": "Epic Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "近くのプレーヤーを癒すために何千もの先進のナノマシンを派遣する。",
+ 	 	 	 	"trans": "近くのプレーヤーを癒すために何千もの先進的なナノマシンを派遣する。",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -1229,7 +1229,7 @@
  	 	 	 	"eng": "Factory reset shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "機器のデフォルト設定やアルゴリズムを保存するシャード。機器を工場出荷時にリセットする際に使用する。",
+ 	 	 	 	"trans": "機器のデフォルト設定やアルゴリズムを保存するシャード。機器を工場出荷時の状態にリセットする際に使用する。",
  	 	 	 	"eng": "A shard stores default settings and algorithm for equipments, this is used for factory-resetting your equipments"
  	 	 	}
  	 	},
@@ -1239,7 +1239,7 @@
  	 	 	 	"eng": "Personal Synaptic Accelerator"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使用されると、AFKタスクで60分間スキップしてください。 \r\n         AFKスクリーンで使用する必要があります",
+ 	 	 	 	"trans": "使用されると、AFKタスクを60分間短縮する。 \r\n         AFKスクリーンで使用する必要がある",
  	 	 	 	"eng": "When used, skip 60 minutes on AFK tasks.\r\n        must be used at AFK screen"
  	 	 	}
  	 	},
@@ -1249,7 +1249,7 @@
  	 	 	 	"eng": "Chat exploit transmitter [Love]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "あなたはいくつかの愛を得ます、そしてあなたはいくつかの愛を得る！ 誰もがいくつかの愛をもたらします！ \r\n         中古のときは誰もがお互いを愛しています \r\n         これはすべてのプレイヤーが10分後に流します",
+ 	 	 	 	"trans": "あなたは愛を手に入れ、そしてあなたは愛を手に入れる！ 誰もが愛を手に入れる！ \r\n         使えば誰もがお互いを愛するようになる。 \r\n         これはすべてのプレイヤーに対して10分間有効",
  	 	 	 	"eng": "You get some love, and you get some love! everyone gets some love!.\r\n        When used everyone loves each other\r\n        This effects all players fow 10 minutes"
  	 	 	}
  	 	},
@@ -1259,17 +1259,17 @@
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "サイバースペースを閲覧している間、あなたの兄弟があなたをスパイしているのを心配していますか？ \r\n         あなたのインターホンは常に悪意のある攻撃によってハッキングされますか？ \r\n         NetRunningの経験を保護して暗号化するには、Cyber Tunnel VPNを使用してください。 \r\n        \r\n         アクティブになったら、1時間のチャットの悪用を無視します。",
+ 	 	 	 	"trans": "サイバースペースを閲覧している間、「ビッグブラザー」に監視されているのが怖い？ \r\n         通信装置が常に悪意ある攻撃によってハッキングされている？ \r\n         NetRunningの経験を保護して暗号化するには、Cyber Tunnel VPNを使用してください。 \r\n        \r\n         アクティブになったら、1時間のチャットの悪用を無視します。",
  	 	 	 	"eng": "Worried the Big Brother spying on you while you browse the cyberspace?\r\n        your intercoms always get hacked by malicious attacks? \r\n        use CyberTunnel VPN to protect and encrypt your netrunning experience! \r\n        \r\n        Once activated, ignores any chat exploit for 1 hour"
  	 	 	}
  	 	},
  	 	"hackTool": {
  	 	 	"name": {
- 	 	 	 	"trans": "プロトコル違反の刀",
+ 	 	 	 	"trans": "プロトコル違反のかけら",
  	 	 	 	"eng": "Protocol Breach Shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "アドバンスエクスプロイトを含む断片。 \r\n         Shangri-Laデータの要塞などのシステムを埋めるために使用できます",
+ 	 	 	 	"trans": "アドバンスエクスプロイトを含む断片。 \r\n         Shangri-Laデータの要塞などのシステムを埋めるために使用できる",
  	 	 	 	"eng": "A shard that contains advance exploits. \r\n        Can be used to breach systems such as Shangri-la Data Fortress"
  	 	 	}
  	 	}
@@ -1296,7 +1296,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "より多くのEXPと戦利品を得るためにダンジョンに飛び込む！ \r\n                         忘れずに回復アイテムを買うこと！ ダンジョン内では自動回復しません。",
+ 	 	 	 	"trans": "準備はOK？最も簡単なノーマルダンジョンで腕試し。 \r\n                         忘れずに回復アイテムを買うこと！ ダンジョン内では自動回復しません。",
  	 	 	 	"eng": "Are you ready? you can test your strength out with normal dungeon, the easiest one.\r\n                        Remember to bring healing item! you won't heal after fights in dungeon"
  	 	 	}
  	 	},
@@ -1311,7 +1311,7 @@
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "もう十分に強いですか？チャレンジダンジョンで試してみてください。 \r\n                         強いボスがいて、最後には大量の戦利品があなたを待っています！ \r\n                         他のプレイヤーと一緒に挑戦することをお勧めします。",
+ 	 	 	 	"trans": "十分強くなった？それならチャレンジダンジョンに挑んでみよう。 \r\n                         強いボスがいて、最後には大量の戦利品があなたを待っています！ \r\n                         他のプレイヤーと一緒に挑戦することをお勧めします。",
  	 	 	 	"eng": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players."
  	 	 	},
  	 	 	"startName": {
@@ -1370,7 +1370,7 @@
  	 	 	 	"eng": "Accept Quest"
  	 	 	},
  	 	 	"decline": {
- 	 	 	 	"trans": "衰退クエスト",
+ 	 	 	 	"trans": "クエストを辞退する",
  	 	 	 	"eng": "Decline Quest"
  	 	 	}
  	 	}
@@ -1467,7 +1467,7 @@
  	 	},
  	 	"newbie": {
  	 	 	"name": {
- 	 	 	 	"trans": "幸福な初心者",
+ 	 	 	 	"trans": "初心者（ボーナス有り）",
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
@@ -1477,11 +1477,11 @@
  	 	},
  	 	"newbie2": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "同盟国と友人",
+ 	 	 	 	"trans": "同盟と友人",
  	 	 	 	"eng": "Allies and Friends"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Cyber Code Onlineへようこそ、 \r\n         オンラインでの人と友達を作ることはあなたが共同協議のクエストを完了するために非常に役立ちます。 \r\n         あなたが質問を持っているならば、今後もオンラインで尋ねる:) \r\n         チャットにスパムした場合は、モデレータによってミュートされます。",
+ 	 	 	 	"trans": "Cyber Code Onlineへようこそ、 \r\n         オンラインで友達を作ることはあなたが共同協議のクエストを完了するために非常に役立ちます。 \r\n         質問があるなら、誰かに聞いてみましょう:) \r\n         チャットにスパムした場合は、モデレータによってミュートされます。",
  	 	 	 	"eng": "Welcome to CyberCode Online,\r\n        making friends with people online will be very useful for you to complete co-op quests,\r\n        go ahead ask people online if you have got any questions :)\r\n        Remember, if you spam in the chat, you will be muted by moderators."
  	 	 	}
  	 	},
@@ -1497,7 +1497,7 @@
  	 	},
  	 	"newbie4": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "クレートを開く",
+ 	 	 	 	"trans": "物資箱を開く",
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
@@ -1541,7 +1541,7 @@
  	 	 	 	"eng": "Market merchant"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "プレイヤー市場のプレイヤーから商品を売買することができ、プレーヤー市場にアイテムを追加することで試してみてください。",
+ 	 	 	 	"trans": "プレイヤー市場のプレイヤーから商品を売買することができる。プレーヤー市場にアイテムを追加してみよう。",
  	 	 	 	"eng": "You can sell and purchase items from players in the player market, try it out by adding an item to the player market"
  	 	 	}
  	 	}
@@ -1549,7 +1549,7 @@
  	"ui": {
  	 	"header": {
  	 	 	"playerOnline": {
- 	 	 	 	"trans": "オンラインプレイヤー",
+ 	 	 	 	"trans": "オンラインのプレイヤー",
  	 	 	 	"eng": "players online"
  	 	 	},
  	 	 	"online": {
@@ -1592,7 +1592,7 @@
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "インタラクト",
+ 	 	 	 	"trans": "インタラクト可能",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"travel": {
@@ -1610,7 +1610,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount}その他の旅行オプションはロック解除できます",
+ 	 	 	 	"trans": "${hiddenCount}その他のトラベルオプションはロック解除できます",
  	 	 	 	"eng": "${hiddenCount} more travel options can be unlocked"
  	 	 	}
  	 	},
@@ -1640,7 +1640,7 @@
  	 	 	 	"eng": "Street Cred"
  	 	 	},
  	 	 	"status": {
- 	 	 	 	"trans": "スターテス",
+ 	 	 	 	"trans": "ステータス",
  	 	 	 	"eng": "Status"
  	 	 	},
  	 	 	"numOfMember": {
@@ -1879,7 +1879,7 @@
  	 	 	 	"eng": "Danger Zone"
  	 	 	},
  	 	 	"enableBackgroundMusic": {
- 	 	 	 	"trans": "バックグラウンドミュージック",
+ 	 	 	 	"trans": "BGM",
  	 	 	 	"eng": "background music"
  	 	 	},
  	 	 	"enableSoundEffects": {
@@ -2009,18 +2009,18 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "ギャングモットーを入力",
+ 	 	 	 	 	 	"trans": "ギャングのモットーを入力",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "ギャングモットーを編集",
+ 	 	 	 	 	"trans": "ギャングのモットーを編集",
  	 	 	 	 	"eng": "Edit Gang Motto"
  	 	 	 	}
  	 	 	},
  	 	 	"updateImage": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "ギャングイメージを更新",
+ 	 	 	 	 	"trans": "ギャングのイメージを更新",
  	 	 	 	 	"eng": "Update Gang Image"
  	 	 	 	}
  	 	 	},
@@ -2125,7 +2125,7 @@
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "エラーが検出されませんでした",
+ 	 	 	 	 	"trans": "エラーは検出されませんでした",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
@@ -2281,7 +2281,7 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "あなたは銀行からどのくらい撤退したいですか？",
+ 	 	 	 	 	"trans": "銀行からどのくらい引き出しますか？",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	}
  	 	 	},
@@ -2315,7 +2315,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "古い鍵付きの金庫を見つけ、そこには何か文字が書かれたポストイットのようなものがありました。",
+ 	 	 	 	"trans": "古い鍵付きの金庫を見つけ、そこには何か文字が書かれたふせんのようなものがありました。",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -2385,7 +2385,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"areaEffect": {
- 	 	 	 	"trans": "[aoe]効果の分野、このアイテムの効果はあなたと戦闘中の同盟国を適用します。",
+ 	 	 	 	"trans": "[aoe]効果の分野、このアイテムの効果はあなたと戦闘中の同盟を適用します。",
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
@@ -2638,7 +2638,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"welcomeTo": {
- 	 	 	 	"trans": "歓迎する",
+ 	 	 	 	"trans": "ようこそ",
  	 	 	 	"eng": "Welcome to"
  	 	 	},
  	 	 	"setCharacterNameTitle": {
@@ -2647,17 +2647,17 @@
  	 	 	},
  	 	 	"hasRefererCheckbox": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "参照先があるかどうかを確認してください（オプション）",
+ 	 	 	 	 	"trans": "あなたを紹介したプレイヤーがいる時のみチェック（オプション）",
  	 	 	 	 	"eng": "Only check if you have a referer (Optional)"
  	 	 	 	},
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "参考文献があります",
+ 	 	 	 	 	"trans": "他のプレイヤーに紹介されました",
  	 	 	 	 	"eng": "I have a referer"
  	 	 	 	}
  	 	 	},
  	 	 	"refererModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "誰があなたを参照していますか？",
+ 	 	 	 	 	"trans": "あなたを紹介したのは誰ですか？",
  	 	 	 	 	"eng": "Who referred you?"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2670,7 +2670,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "あなたの参照として${name}を設定しました",
+ 	 	 	 	 	"trans": "あなたを紹介したプレイヤーとして${name}を設定しました",
  	 	 	 	 	"eng": "You have set ${name} as your referer"
  	 	 	 	}
  	 	 	},
@@ -2695,7 +2695,7 @@
  	 	 	 	 	"eng": "You cannot change this in the future"
  	 	 	 	},
  	 	 	 	"confirmButton": {
- 	 	 	 	 	"trans": "確信してます",
+ 	 	 	 	 	"trans": "大丈夫です",
  	 	 	 	 	"eng": "I am sure"
  	 	 	 	}
  	 	 	}
@@ -2766,11 +2766,11 @@
  	 	 	 	"eng": "Abort"
  	 	 	},
  	 	 	"newbieTip": {
- 	 	 	 	"trans": "あなたがゲームを閉じたとしてもタスクは続くでしょう",
+ 	 	 	 	"trans": "あなたがゲームを閉じたとしてもタスクは続行されます",
  	 	 	 	"eng": "The task will continue even if you close the game"
  	 	 	},
  	 	 	"abortWarning": {
- 	 	 	 	"trans": "これを中止することによって、あなたは賞を受賞しました、そして使用された材料はwon \\ 'tが返されます",
+ 	 	 	 	"trans": "中止すると報酬を獲得することはできず、使用した材料も返却されません",
  	 	 	 	"eng": "By aborting this you won\\'t receive any reward and the material used won\\'t be returned"
  	 	 	},
  	 	 	"marketShortcut": {
@@ -2855,7 +2855,7 @@
  	 	 	 	 	"eng": "Dungeons"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "ダンジョンでは、あなたはそれぞれの戦いの後に癒されません、そして敵はより強いですが、より多くのExpと戦利品があります",
+ 	 	 	 	 	"trans": "ダンジョンでは、戦闘後の自動回復は行われず、そして敵も強化されていますが、より多くの経験値と戦利品を得ることができます",
  	 	 	 	 	"eng": "In dungeons, you will not heal after each fight, and enemies are stronger, but there are more exp and loots"
  	 	 	 	}
  	 	 	},
@@ -2888,20 +2888,20 @@
  	 	},
  	 	"combat": {
  	 	 	"enemyIsDeadTitle": {
- 	 	 	 	"trans": "あなたはここに何も見つかりませんでした",
+ 	 	 	 	"trans": "ここでは何も見つかりませんでした",
  	 	 	 	"eng": "You found nothing here"
  	 	 	},
  	 	 	"equipmentBrokenMsg": {
  	 	 	 	"vars": [
  	 	 	 	 	"equipmentName"
  	 	 	 	],
- 	 	 	 	"trans": "${equipmentName}が壊れて、都市の武器スミスで修理",
+ 	 	 	 	"trans": "${equipmentName}が壊れたので、都市の武器屋で修理しましょう",
  	 	 	 	"eng": "${equipmentName} is broken, repair it at the Weapon Smith in the City"
  	 	 	}
  	 	},
  	 	"dungeonLobby": {
  	 	 	"noDungeon": {
- 	 	 	 	"trans": "現在公のダンジョンはありません",
+ 	 	 	 	"trans": "現在されているダンジョンはありません",
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	},
  	 	 	"showCanJoinOnly": {
@@ -2916,7 +2916,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "路上で近くの敵をスキャンします。路上の敵はダンジョンの敵より弱いですが、獲得できるexpも少ないです。",
+ 	 	 	 	 	"trans": "路上で近くの敵をスキャンします。路上の敵はダンジョンの敵より弱いですが、獲得できる経験値も少ないです。",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -3107,7 +3107,7 @@
  	 	 	 	"eng": "Name must be less or equal to 16 characters long"
  	 	 	},
  	 	 	"invalidChar": {
- 	 	 	 	"trans": "名前は英語の文字、数字、「_」のみを含めることができます",
+ 	 	 	 	"trans": "名前は英字、数字、「_」のみを含めることができます",
  	 	 	 	"eng": "Name can only contain English letters, numbers and \"_\""
  	 	 	}
  	 	},
@@ -3596,7 +3596,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "おめでとうございます、あなたはあなたの${levelName}を平準化しました！",
+ 	 	 	 	"trans": "おめでとうございます、あなたは${levelName}にレベルアップしました！",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
@@ -3615,7 +3615,7 @@
  	 	 	},
  	 	 	"noShowToggle": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "[プロフィール]> [チュートリアル]タブでフルチュートリアルを見ることができます",
+ 	 	 	 	 	"trans": "[プロフィール]> [チュートリアル]タブで全てのチュートリアルを見ることができます",
  	 	 	 	 	"eng": "You can see the full tutorial at Profile > Tutorial tab"
  	 	 	 	},
  	 	 	 	"label": {
@@ -3714,7 +3714,7 @@
  	 	 	 	"eng": "Unofficial translation"
  	 	 	},
  	 	 	"description1": {
- 	 	 	 	"trans": "このゲームは一人の人だけによって作られているので、それは非常に困難ですすべての言語を正しく変換しますが、私はより多くの翻訳を追加することに取り組んでいます:)",
+ 	 	 	 	"trans": "このゲームは一人で制作しているので、すべての言語を正しく変換するのは困難ですが、私はより多くの翻訳を追加することに取り組んでいます:)",
  	 	 	 	"eng": "As this game is made by only one person, it's very difficult translate all languages correctly, but I am working on adding more translations :)"
  	 	 	},
  	 	 	"description": {
